@@ -8,7 +8,8 @@
 
 <div align="center">
 <img src="https://img.shields.io/badge/License-Apache%202.0-green.svg" alt="License">
-<img src="https://img.shields.io/github/issues/AIDC-AI/Marco-Voice?color=red" alt="Issues">
+<img src="https://img.shields.io/github/issues/AIDC-AI/Marco-Voice?color=red" alt="Open Issues">
+<img src="https://img.shields.io/github/issues-closed/AIDC-AI/Marco-Voice?color=green" alt="Closed Issues">
 <img src="https://img.shields.io/github/stars/AIDC-AI/Marco-Voice?color=yellow" alt="Stars">
 <img src="https://img.shields.io/badge/python-3.10-purple.svg" alt="Python">
 <img src="https://img.shields.io/badge/PyTorch-2.0-blue.svg" alt="PyTorch"> 
