@@ -570,3 +570,8 @@ We conducted a blind human evaluation with four annotators. The Likert scale ran
 
 ## License
 The project is licensed under the Apache License 2.0 (http://www.apache.org/licenses/LICENSE-2.0, SPDX-License-identifier: Apache-2.0).
+
+---
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=AIDC-AI/Marco-Voice&type=Date)](https://star-history.com/#AIDC-AI/Marco-Voice&Date)
